@@ -16,6 +16,7 @@ a deeply nested required aspect is not invoked
 wing compile -t ./not-working main.w
 newApp called
 presynth called
+MyAspect got created
 ```
 
 ### working
